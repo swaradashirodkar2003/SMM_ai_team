@@ -1,6 +1,7 @@
 # Instagram Content Automation System
 
-Multi-agent AI system that auto-generates ready-to-post Instagram carousels 3x/week for a niche travel brand using a single line of input.
+Multi-agent AI system that auto-generates ready-to-post Instagram carousels 3x/week for a yacht brand using a single line of input.
+- built on flowise platform through railway app
 
 ## How It Works
 A team of 4 AI agents handle the full pipeline — research, content strategy, copywriting, and QA — before delivering a finished carousel with slides, caption, and hashtags.
